@@ -1,0 +1,22 @@
+button {
+		background-color:#000100;
+		color: #ffffffa2;
+		padding: 20px;
+		font-size: 20px;
+		margin: 10px;
+		border: 1px solid black;
+		border-radius: 3px;
+}
+button.even{
+    background-color: aqua
+    color:yellowgreen;
+}
+body{
+    background-color:sandybrown
+}
+tr{
+    color: tan
+}
+td{
+    color: seagreen
+}
